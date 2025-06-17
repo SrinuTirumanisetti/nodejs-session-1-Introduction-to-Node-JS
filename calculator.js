@@ -1,3 +1,4 @@
+//named exports in commonJS modules
 const add = (a, b) => {
   return a + b;
 };

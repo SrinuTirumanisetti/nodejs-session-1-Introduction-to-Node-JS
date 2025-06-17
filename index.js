@@ -2,6 +2,7 @@
 
 // hello("srinu");
 
+//named imports in common js modules
 const calculator = require("./calculator");
 const { add, sub } = calculator;
 console.log(add(8, 9));
